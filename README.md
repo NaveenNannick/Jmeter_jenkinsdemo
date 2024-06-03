@@ -1,2 +1,2 @@
 # Jmeter_jenkinsdemo  
-bhtdrxctfvuygbinh
+sample
